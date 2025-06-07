@@ -117,7 +117,35 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>Binance Support is a centralized platform where Binance users can access help and manage their support-related needs.
+
+Binance support team is responsible for :
+
+	1.	Ticket Management
+	•	View and Track Tickets: See all open, closed, and pending support tickets.
+	•	Submit New Tickets: Easily open a new support request with categorized issue types (e.g., deposits, withdrawals, account issues).
+	•	Ticket History: Access detailed logs of past interactions.
+	2.	Search & Help Center Integration
+	•	Search Knowledge Base: Quickly find FAQs, guides, and articles related to common issues.
+	•	Suggested Articles: When submitting a ticket, the system suggests related help articles that might resolve the issue.
+	3.	Live Chat & Messaging
+	•	Chat with Support Agents: Real-time chat support for logged-in users, depending on issue severity or account type (e.g., VIP users).
+	•	Message Notifications: Get notified when support agents respond to your ticket or request more info.
+	4.	Upload Documents & Screenshots
+	•	Securely upload identity documents (for KYC), transaction proof, error screenshots, or other attachments needed to resolve issues.
+	5.	Account-Linked Issue Reporting
+	•	Contextual Reporting: Automatically pull account data relevant to the selected issue (e.g., transaction IDs, wallet addresses).
+	•	Reduces time needed to explain issues.
+	6.	Security & Privacy Controls
+	•	2FA Required: Accessing support often requires 2-factor authentication to protect sensitive data.
+	•	Data Encryption: Secure handling of personal and financial information.
+	7.	Multi-language Support
+	•	The dashboard is available in multiple languages for global accessibility.
+	8.	Status Updates
+	•	Track estimated response times and ticket progress (e.g., “In Review,” “Waiting for Customer,” “Resolved”).
+	9.	Specialized Support Channels
+	•	VIP or Institutional Support: Direct access for high-tier accounts.
+	•	Blockchain/Transaction Support: More detailed technical support for on-chain issues..</p>
           </div>
         `
         break
